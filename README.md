@@ -1,3 +1,3 @@
 # coursera-test
 coursera test repository
-theme: minima
+remote_theme: minima
