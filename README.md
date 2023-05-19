@@ -1,3 +1,3 @@
 # coursera-test
 coursera test repository
-remote_theme: minima
+remote_theme: jekyll new
